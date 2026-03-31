@@ -1,9 +1,9 @@
 streamlit
-numpy
+numpy==1.23.5
 pandas
 yfinance
-tensorflow
 scikit-learn
 plotly
 newsapi-python
 vaderSentiment
+tensorflow-cpu==2.10.0
